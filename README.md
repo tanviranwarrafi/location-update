@@ -7,4 +7,4 @@ This project is for learning how to update location in Android App Development.
 ### - Permission: implementation 'com.google.android.gms:play-services-location:17.0.0'
  
 ## Screenshots
-<img src="screenshots/location.png" width="200">
+<img src="screenshot/location.png" width="350">
